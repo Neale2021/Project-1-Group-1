@@ -61,6 +61,8 @@ Fix buttons at the top of the page and in the carousel that are not currently wo
 <img width="1263" alt="Movie box screen shot" src="https://user-images.githubusercontent.com/98126694/162852100-72a5010a-4924-4cde-af46-9759da58f4e7.png">
 
 ### Links
-https://trietryannguyen.github.io/project-group-1/
+
+
+https://github.com/Neale2021/Project-1-Group-1
 
 
